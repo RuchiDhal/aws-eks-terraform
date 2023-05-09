@@ -2,7 +2,7 @@
 
 Deploying Kubernetes cluster in AWS-EKS using Terraform for Infrastructure as Code (IaC)
 
-Below project demonstrates building an EKS cluster with the help of AWS provider and Kubernetes provider using Terraform.
+Below project demonstrates building an EKS cluster with the help of AWS provider and Kubernetes provider using Terraform. 
 
 > **Note**
 >
